@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pomodor",
+				"pomodoro_tags"
+			],
+			[
+				"pomo",
+				"pomodoro_tags"
+			],
+			[
+				"tag",
+				"tag_status"
+			],
+			[
+				"new",
+				"new_data_toGraph"
+			],
+			[
+				"updated",
+				"updated_at"
+			],
+			[
+				"raw",
+				"raw_pomodoros"
+			],
+			[
+				"data_array",
+				"data_array_toAdd"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"Pomodo",
+				"Pomodoros"
+			],
+			[
+				"grouped",
+				"grouped_pomodoros"
+			],
+			[
+				"updat",
+				"updated_at"
+			],
+			[
+				"typ",
+				"type_label"
+			],
+			[
+				"time",
+				"timeframe"
+			],
+			[
+				"pomodoros",
+				"pomodoros"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"unfinishe",
+				"unfinished_pomodoro"
+			],
+			[
+				"uf",
+				"unfinished_pomodoro"
+			],
+			[
+				"unfinis",
+				"unfinished_pomodoro"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"have_",
+				"have_link"
+			],
+			[
+				"sign",
+				"signin_path"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"shoul",
+				"should_not"
+			],
+			[
+				"WOR",
+				"WORKING"
+			],
+			[
+				"WORK",
+				"WORK_READY"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"have",
+				"have_selector"
+			],
+			[
+				"submi",
+				"submit"
+			],
+			[
+				"gravat",
+				"gravatar_url"
+			],
+			[
+				"gravatar",
+				"gravatar_id"
+			],
+			[
+				"it",
+				"it	it \"should description\" do … end"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 348.0,
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 251.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/troyshu/rails_projects/evening-earth-7467/Procfile",
+		"/home/troyshu/rails_projects/evening-earth-7467/config.ru",
+		"/home/troyshu/rails_projects/evening-earth-7467/app.rb",
+		"/home/troyshu/rails_projects/evening-earth-7467/dev.env",
+		"/home/troyshu/rails_projects/evening-earth-7467/Gemfile",
+		"/home/troyshu/rails_projects/evening-earth-7467/.env",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/about.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/helpers/static_pages_helper.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/helpers/users_helper.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/helpers/sessions_helper.rb",
+		"/home/troyshu/rails_projects/pomodoro/reddit productivity post",
+		"/home/troyshu/Desktop/emails.csv",
+		"/home/troyshu/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/public/css/jquery.tagit.css",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/layouts/application.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/help.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/routes.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/Gemfile",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/controllers/application_controller.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/users/show.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/database.yml.pg",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/database.yml",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/Gemfile.lock",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/public/notready.html",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/helpers/application_helper.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/helpers/pomodoros_helper.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/controllers/sessions_controller.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/_timer_js.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/models/user.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/users/_show_user_charts.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/layouts/_footer.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/users/_warning_starter_limit.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/home.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/application.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/environment.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/stylesheets/application.css",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/application.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/stylesheets/jquery.tagsinput.css",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/public/tagit.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/tagit.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/timer_header.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/tagbox.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/models/pomodoro.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/controllers/users_controller.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/timer.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/pricing.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/controllers/pomodoros_controller.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/pomodoros/create.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/contact.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/users/new.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/layouts/_header.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/public/premiumonly.html",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/stylesheets/tipsy.css",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/jquery.tipsy.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/public/tinybox_style.css",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/log/development.log",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/users/edit.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/resources/tinybox2/index.html",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/stylesheets/custom.css.scss",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/jquery.sound.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/spec/requests/user_pages_spec.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/pomodoros/_pomodoro.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/tinybox.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/static_pages/notready.html",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/layouts/_shim.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/controllers/static_pages_controller.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/lib/tasks/sample_data.rake",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/spec/factories.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/db/migrate/20120825193524_add_length_to_pomodoros.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/microposts/_micropost.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/spec/support/utilities.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/db/migrate/20120817172805_add_index_to_users_email.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/db/migrate/20120825190456_create_pomodoros.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/public/index.html",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/environments/production.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/layouts/_tracking.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/spec/requests/authentication_pages_spec.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_launch/index.html",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_launch_app/Gemfile",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/sessions/new.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/db/migrate/20120820131114_add_remember_token_to_users.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/shared/_error_messages.html.erb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/locales/en.yml",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/environments/test.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/db/migrate/20120817173138_add_password_digest_to_users.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/stylesheets/jquery.countdown.css",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/db/migrate/20120817113900_create_users.rb",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/db/development.sqlite3",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/README.rdoc",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/README.md",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/jquery.countdown.js",
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/jquery.countdown.min.js",
+		"/home/troyshu/rails_projects/sample_app/Gemfile",
+		"/home/troyshu/rails_projects/sample_app/db/migrate/20120808002701_create_relationships.rb",
+		"/home/troyshu/rails_projects/sample_app/spec/models/user_spec.rb",
+		"/home/troyshu/rails_projects/sample_app/spec/models/relationship_spec.rb",
+		"/home/troyshu/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/home/troyshu/django_projects/tutorial/tutorial/settings.py",
+		"/home/troyshu/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/troyshu/rails_projects/sample_app/spec/models/micropost_spec.rb",
+		"/home/troyshu/rails_projects/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/home/troyshu/rails_projects/sample_app/spec/requests/micropost_pages_spec.rb",
+		"/home/troyshu/rails_projects/sample_app/app/controllers/microposts_controller.rb",
+		"/home/troyshu/django_projects/tutorial/tutorial/settingsgs.py",
+		"/home/troyshu/rails_projects/sample_app/app/views/users/index.html.erb",
+		"/home/troyshu/rails_projects/sample_app/spec/support/utilities.rb",
+		"/home/troyshu/rails_projects/sample_app/app/controllers/sessions_controller.rb",
+		"/home/troyshu/rails_projects/sample_app/app/views/users/_micropost.html.erb",
+		"/home/troyshu/rails_projects/sample_app/app/views/users/show.html.erb",
+		"/home/troyshu/rails_projects/sample_app/app/models/micropost.rb",
+		"/home/troyshu/rails_projects/sample_app/app/helpers/sessions_helper.rb",
+		"/home/troyshu/rails_projects/sample_app/config/routes.rb",
+		"/home/troyshu/rails_projects/sample_app/app/views/users/_fields.html.erb",
+		"/home/troyshu/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/home/troyshu/rails_projects/sample_app/app/models/user.rb",
+		"/home/troyshu/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/troyshu/rails_projects/sample_app/app/views/shared/_feed.html.erb",
+		"/home/troyshu/rails_projects/sample_app/app/views/shared/_feed_item.html.erb",
+		"/home/troyshu/rails_projects/sample_app/app/views/microposts/_micropost.html.erb",
+		"/home/troyshu/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/home/troyshu/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/home/troyshu/rails_projects/sample_app/app/views/users/edit.html.erb",
+		"/home/troyshu/rails_projects/sample_app/spec/factories.rb",
+		"/home/troyshu/rails_projects/sample_app/app/views/shared/_error_messages.html.erb",
+		"/home/troyshu/rails_projects/sample_app/app/views/shared/_micropost_form.html.erb",
+		"/home/troyshu/rails_projects/sample_app/app/views/shared/_user_info.html.erb",
+		"/home/troyshu/rails_projects/sample_app/app/helpers/users_helper.rb",
+		"/home/troyshu/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss"
+	],
+	"find":
+	{
+		"height": 88.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" &reg;",
+			"Pomodoro Technique",
+			"Pomodoro",
+			"Pomodoros",
+			",",
+			", ",
+			"\"",
+			"where",
+			"user_l",
+			"in getpr",
+			"in getpremium",
+			"openTimerPopup",
+			"openTimer",
+			"20px",
+			"tags",
+			"console.",
+			"pomodoros in ",
+			"tags for tag",
+			"color",
+			"height",
+			"strong",
+			"Pomos",
+			"form",
+			"user path",
+			"css",
+			"styl",
+			"css",
+			"}",
+			">",
+			"pomodoros s",
+			"moving onto",
+			"in get_data",
+			"show data",
+			"STORE LOCATION",
+			"ssl",
+			"rails",
+			"rail",
+			"rails",
+			"					<",
+			"user_path",
+			"visit",
+			"config.acti",
+			"signed_in",
+			"  \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"&reg;",
+			"Pomodoro Technique &reg;",
+			"pomodoros",
+			"",
+			",",
+			", \\r",
+			"",
+			"POMOS"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.tests":
+	{
+		"height": 184.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
