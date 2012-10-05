@@ -7,6 +7,9 @@ Ideaexchange::Application.routes.draw do
   resources :ideas
   
   match '/approved_create', to: 'ideas#approved_create'
+
+  root :to => 'static_pages#home'
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

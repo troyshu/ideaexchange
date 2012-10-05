@@ -1,3 +1,5 @@
+include ApplicationHelper
+
 class IdeasController < ApplicationController
   # GET /ideas
   # GET /ideas.json
@@ -54,7 +56,7 @@ class IdeasController < ApplicationController
       :via => :smtp,
       :headers => { 'Content-Type' => 'text/html' },
       :subject => 'ideaexchange approval required',
-      :body => "<p>Name: #{params[:idea][:name]}</p><p>Description: #{params[:idea][:description]}</p><a href=\"#{request.host}/approved_create?#{idea_params}\">approve</a>",
+      :body => "<p>Name: #{params[:idea][:name]}</p><p>Description: #{params[:idea][:description]}</p><p>Email: #{params[:idea][:submitter_email]}</p><a href=\"#{request.host}/approved_create?#{idea_params}\">approve</a>",
       :via_options => {
         :address              => 'smtp.gmail.com',
         :port                 => '587',
@@ -69,6 +71,8 @@ class IdeasController < ApplicationController
     @idea = Idea.new(params[:idea])
     if @idea.valid?
       #redirect to home, with a flash of success. NEED to do this, so user can't refresh page and spam email me
+      flash[:success] = "Idea submitted for approval. If approved, you will receive an email with #{NUM_IDEAS} ideas"
+      redirect_to root_path
     else
       render action: "new"
     end
@@ -77,13 +81,17 @@ class IdeasController < ApplicationController
 
   def approved_create
     
-    logger.debug("in approved_create: #{params}")
+    #logger.debug("in approved_create: #{params}")
     @idea = Idea.new(params[:idea])
 
     respond_to do |format|
       if @idea.save
         format.html { redirect_to @idea, notice: 'Idea was successfully created.' }
         format.json { render json: @idea, status: :created, location: @idea }
+
+        #send submitter an email, with 5 random ideas
+        
+
       else
         format.html { render action: "new" }
         format.json { render json: @idea.errors, status: :unprocessable_entity }
