@@ -143,6 +143,55 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/models/idea.rb",
+			"settings":
+			{
+				"buffer_size": 149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/tasks/sample_data.rake",
+			"settings":
+			{
+				"buffer_size": 199,
+				"line_ending": "Unix",
+				"name": "namespace :db do"
+			}
+		},
+		{
+			"file": "app/controllers/ideas_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2894,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "log/development.log",
+			"settings":
+			{
+				"buffer_size": 50437,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1873,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 839,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -176,6 +225,10 @@
 	},
 	"file_history":
 	[
+		"/home/troyshu/rails_projects/ideaexchange/app/views/ideas/create.html.erb",
+		"/home/troyshu/rails_projects/ideaexchange/app/views/ideas/new.html.erb",
+		"/home/troyshu/rails_projects/ideaexchange/db/migrate/20121005014853_add_approved_to_ideas.rb",
+		"/home/troyshu/rails_projects/ideaexchange/Gemfile",
 		"/home/troyshu/rails_projects/evening-earth-7467/Procfile",
 		"/home/troyshu/rails_projects/evening-earth-7467/config.ru",
 		"/home/troyshu/rails_projects/evening-earth-7467/app.rb",
@@ -299,11 +352,7 @@
 		"/home/troyshu/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
 		"/home/troyshu/rails_projects/sample_app/app/views/users/edit.html.erb",
 		"/home/troyshu/rails_projects/sample_app/spec/factories.rb",
-		"/home/troyshu/rails_projects/sample_app/app/views/shared/_error_messages.html.erb",
-		"/home/troyshu/rails_projects/sample_app/app/views/shared/_micropost_form.html.erb",
-		"/home/troyshu/rails_projects/sample_app/app/views/shared/_user_info.html.erb",
-		"/home/troyshu/rails_projects/sample_app/app/helpers/users_helper.rb",
-		"/home/troyshu/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss"
+		"/home/troyshu/rails_projects/sample_app/app/views/shared/_error_messages.html.erb"
 	],
 	"find":
 	{
@@ -322,6 +371,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"flash",
 			" &reg;",
 			"Pomodoro Technique",
 			"Pomodoro",
@@ -391,8 +441,174 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/models/idea.rb",
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/tasks/sample_data.rake",
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"auto_name": "namespace :db do",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/ideas_controller.rb",
+					"settings":
+					{
+						"buffer_size": 2894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1706,
+								1706
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "log/development.log",
+					"settings":
+					{
+						"buffer_size": 50437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 22266.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
