@@ -1,4 +1,5 @@
 Ideaexchange::Application.routes.draw do
+
   resources :ideas
   
   match '/approved_create', to: 'ideas#approved_create'

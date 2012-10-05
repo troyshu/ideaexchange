@@ -65,8 +65,14 @@ class IdeasController < ApplicationController
         :domain               => "localhost.localdomain" # the HELO domain provided by the client to the server
       }
     })
-
-    #redirect to home, with a flash of success
+    #validate idea
+    @idea = Idea.new(params[:idea])
+    if @idea.valid?
+      #redirect to home, with a flash of success. NEED to do this, so user can't refresh page and spam email me
+    else
+      render action: "new"
+    end
+    
   end
 
   def approved_create
