@@ -1,5 +1,9 @@
 Ideaexchange::Application.routes.draw do
 
+  get "static_pages/home"
+
+  get "static_pages/help"
+
   resources :ideas
   
   match '/approved_create', to: 'ideas#approved_create'
