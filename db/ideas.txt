@@ -1,0 +1,9 @@
+"automated, ongoing, medical diagnosis"	in 50 years we will find it barbaric that people waited until they had symptoms be be diagnosed with conditions like heart disease and cancer (http://paulgraham.com/ambitious.html)	tmshu1@gmail.com
+making auctions interesting	"cracking eBay's monopoly, disrupting the space (http://ycombinator.com/ideas.html)"	tmshu1@gmail.com
+"internet ""penis"""	"a site that retrieves the number of followers/friends you have on linkedin, twitter, facebook, etc. and shows your the ""size"" of your internet ""penis"""	tmshu1@gmail.com
+a craigslist competitor	"craigslist hordes their data, and is slow to innovate. e.g. they sued padmapper and 3taps for using their data. then created their own map view"	tmshu1@gmail.com
+facebook collage	"a facebook collage created from thumbnails of your friends, interests, places, etc."	tmshu1@gmail.com
+list books by isbn scanner	"right now, listing on amazon etc. takes many steps/clicks. would be nice to have an app that scans a book's isbn, and then posts the listing. could even work with bulk submission to a book buyback program such as cash4books"	tmshu1@gmail.com
+crunchbase visualization	"getting a bird's eye view on the crunchbase database, being able to see size of funding, founding date, industry, etc."	tmshu1@gmail.com
+location based polling	e.g. ask people around you what the best thing to do is when you're someplace new	tmshu1@gmail.com
+non invasive blood glucose checking for diabetics	"there are currently non-invasive procedures being researched (blood occlusion sepctroscopy, eye laser refraction) but they are impractical and/or not yet commercialized. "	tmshu1@gmail.com

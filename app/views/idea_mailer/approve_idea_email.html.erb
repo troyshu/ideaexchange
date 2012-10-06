@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  </head>
+  <body>
+    <h1>Approve the following idea?</h1>
+
+
+    <p>Name: <%= @idea.name %></p>
+
+    <p>Description: <%= @idea.description %></p>
+
+    <p>Email: <%= @idea.submitter_email %></p>
+
+    <a href="<%= @create_idea_string %>">approve</a>
+  </body>
+</html>

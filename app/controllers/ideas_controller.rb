@@ -1,6 +1,12 @@
 include ApplicationHelper
 
 class IdeasController < ApplicationController
+  before_filter :restrict_access, :only => [:index, :show, :edit, :update, :destroy]
+
+  def restrict_access
+    redirect_to root_path
+  end
+
   # GET /ideas
   # GET /ideas.json
   def index
@@ -49,27 +55,17 @@ class IdeasController < ApplicationController
   # POST /ideas.json
   def create
     idea_params = params.to_query
+    create_idea_string = "#{request.host}/approved_create?#{idea_params}"
 
-    #send approval email with correct params
-    Pony.mail({
-      :to => 'tmshu1@gmail.com',
-      :via => :smtp,
-      :headers => { 'Content-Type' => 'text/html' },
-      :subject => 'ideaexchange approval required',
-      :body => "<p>Name: #{params[:idea][:name]}</p><p>Description: #{params[:idea][:description]}</p><p>Email: #{params[:idea][:submitter_email]}</p><a href=\"#{request.host}/approved_create?#{idea_params}\">approve</a>",
-      :via_options => {
-        :address              => 'smtp.gmail.com',
-        :port                 => '587',
-        :enable_starttls_auto => true,
-        :user_name            => 'tmshu1',
-        :password             => 'g1,89ygaR;oO1',
-        :authentication       => :plain, # :plain, :login, :cram_md5, no auth by default
-        :domain               => "localhost.localdomain" # the HELO domain provided by the client to the server
-      }
-    })
+    
+    
+
     #validate idea
     @idea = Idea.new(params[:idea])
     if @idea.valid?
+      #send approval email with correct params
+      IdeaMailer.approve_idea_email(@idea, create_idea_string).deliver
+
       #redirect to home, with a flash of success. NEED to do this, so user can't refresh page and spam email me
       flash[:success] = "Idea submitted for approval. If approved, you will receive an email with #{NUM_IDEAS} ideas"
       redirect_to root_path
@@ -90,7 +86,14 @@ class IdeasController < ApplicationController
         format.json { render json: @idea, status: :created, location: @idea }
 
         #send submitter an email, with 5 random ideas
-        
+        idea_ids = (Idea.first.id..Idea.last.id).to_a.sample NUM_IDEAS 
+        body_string = "<p>Congratulations, your idea was approved. As a reward, here are #{NUM_IDEAS} random ideas from our database: </p>"
+        idea_ids.each do |id|
+          cur_idea = Idea.find_by_id(id)
+          body_string = body_string + "<p>Name: #{cur_idea.name}<br>#{cur_idea.description}</p>"
+        end
+
+        #email logic
 
       else
         format.html { render action: "new" }
