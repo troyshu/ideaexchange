@@ -61,7 +61,23 @@ class IdeasController < ApplicationController
     @idea = Idea.new(params[:idea])
     if @idea.valid?
       #send approval email with correct params
-      
+      body_string = "<p>Name: #{@idea.name}</p><p>Description: #{@idea.description}</p><p>Submitter: #{@idea.submitter_email}</p><p><a href=\"#{create_idea_string}\">approve</a></p>"
+      Pony.mail({
+        :to => 'tmshu1@gmail.com',
+        :via => :smtp,
+        :body => body_string,
+        :subject=> 'Idea Vending Machine: approval required',
+        :headers => { 'Content-Type' => 'text/html' },
+        :via_options => {
+          :address              => 'smtp.gmail.com',
+          :port                 => '587',
+          :enable_starttls_auto => true,
+          :user_name            => 'ideavendingmachine',
+          :password             => 'goO90uhst',
+          :authentication       => :plain, # :plain, :login, :cram_md5, no auth by default
+          :domain               => "localhost.localdomain" # the HELO domain provided by the client to the server
+        }
+      })
 
       #redirect to home, with a flash of success. NEED to do this, so user can't refresh page and spam email me
       flash[:success] = "Idea submitted for approval. If approved, you will receive an email with #{NUM_IDEAS} ideas"
@@ -91,6 +107,22 @@ class IdeasController < ApplicationController
         end
 
         #email logic
+        Pony.mail({
+        :to => "#{@idea.submitter_email}",
+        :via => :smtp,
+        :body => body_string,
+        :subject=> 'Idea Vending Machine: here are your ideas!',
+        :headers => { 'Content-Type' => 'text/html' },
+        :via_options => {
+          :address              => 'smtp.gmail.com',
+          :port                 => '587',
+          :enable_starttls_auto => true,
+          :user_name            => 'ideavendingmachine',
+          :password             => 'goO90uhst',
+          :authentication       => :plain, # :plain, :login, :cram_md5, no auth by default
+          :domain               => "localhost.localdomain" # the HELO domain provided by the client to the server
+        }
+      })
 
       else
         format.html { render action: "new" }
