@@ -64,7 +64,7 @@ class IdeasController < ApplicationController
     @idea = Idea.new(params[:idea])
     if @idea.valid?
       #send approval email with correct params
-      IdeaMailer.approve_idea_email(@idea, create_idea_string).deliver
+      
 
       #redirect to home, with a flash of success. NEED to do this, so user can't refresh page and spam email me
       flash[:success] = "Idea submitted for approval. If approved, you will receive an email with #{NUM_IDEAS} ideas"
