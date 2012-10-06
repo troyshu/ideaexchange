@@ -32,9 +32,6 @@ class IdeasController < ApplicationController
   # GET /ideas/new
   # GET /ideas/new.json
   def new
-
-    
-
     @idea = Idea.new
 
     respond_to do |format|
