@@ -1,3 +1,9 @@
+
+
+<center>
+
 <h1>Welcome to the Idea Vending Machine</h1>
-<p>Submit anything from a weekend hack to a startup idea, get <%= NUM_IDEAS %> ideas back in return.</p>
+<p>Submit anything from a weekend hack to a startup idea, get <%= NUM_IDEAS %> random ideas back in return.</p>
+<p>There are currently <strong><%= Idea.all.count %></strong> ideas in the vending machine.</p>
 <%= link_to "Submit an idea", new_idea_path %>
+</center>

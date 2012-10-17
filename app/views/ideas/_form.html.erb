@@ -23,6 +23,11 @@
     <%= f.label :submitter_email, "Your email" %><br />
     <%= f.text_field :submitter_email %>
   </div>
+
+  <div class="field">
+    <%= raw recaptcha_tags %>
+  </div>
+
   <div class="actions">
     <%= f.submit %>
   </div>

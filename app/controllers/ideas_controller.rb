@@ -59,7 +59,7 @@ class IdeasController < ApplicationController
 
     #validate idea
     @idea = Idea.new(params[:idea])
-    if @idea.valid?
+    if @idea.valid? && verify_recaptcha(:model => @idea, :message => "Please try the reCAPTCHA again")
       #send approval email with correct params
       body_string = "<p>Name: #{@idea.name}</p><p>Description: #{@idea.description}</p><p>Submitter: #{@idea.submitter_email}</p><p><a href=\"#{create_idea_string}\">approve</a></p>"
       Pony.mail({

@@ -1,4 +1,6 @@
+include ApplicationHelper
 class StaticPagesController < ApplicationController
+
   def home
   end
 

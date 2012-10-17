@@ -1,0 +1,33 @@
+
+ * {
+	color: #333333;
+	font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
+	font-size:1em;
+}
+
+h1 {
+	font-size:3em;
+}
+h2 {
+	font-size:2em;
+}
+
+a {
+	background:#333333;
+	color:white;
+}
+a:hover {
+	background:white;
+	color: #333333;
+	text-decoration:underline;
+}
+
+strong {
+	font-size:1.5em;
+}
+
+.alert-success {
+	background:green;
+	padding:5px;
+	color:white;
+}
