@@ -1,3 +1,3 @@
 module ApplicationHelper
-	NUM_IDEAS = 5
+	NUM_IDEAS = 3
 end

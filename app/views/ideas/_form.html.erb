@@ -17,10 +17,10 @@
   </div>
   <div class="field">
     <%= f.label :description %><br />
-    <%= f.text_area :description %>
+    <%= f.text_area :description, :rows=>5 %>
   </div>
   <div class="field">
-    <%= f.label :submitter_email, "Your email" %><br />
+    <%= f.label :submitter_email, "Your email (where we send the ideas)" %><br />
     <%= f.text_field :submitter_email %>
   </div>
 

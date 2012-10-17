@@ -1,5 +1,4 @@
-
- * {
+* {
 	color: #333333;
 	font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
 	font-size:1em;
@@ -30,4 +29,12 @@ strong {
 	background:green;
 	padding:5px;
 	color:white;
+}
+
+#ascii-art {
+	font-family: Courier;
+	font-size:9px;
+	width:230px;
+	margin-right:auto;
+	margin-left:auto;
 }
