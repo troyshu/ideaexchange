@@ -51,9 +51,6 @@ class IdeasController < ApplicationController
   # POST /ideas
   # POST /ideas.json
   def create
-
-
-    
     
 
     #validate idea
@@ -61,7 +58,8 @@ class IdeasController < ApplicationController
     if @idea.valid? && verify_recaptcha(:model => @idea, :message => "Please try the reCAPTCHA again")
       #store description in temp database
       @temp_description = TempDescription.new(:description=>@idea.description)
-
+      @temp_description.save
+      #logger.debug("temp description object: #{@temp_description}")
       real_description = params[:idea][:description]
       params[:idea][:description] = @temp_description.id
       idea_params = params.to_query
@@ -99,6 +97,10 @@ class IdeasController < ApplicationController
   def approved_create
     
     #logger.debug("in approved_create: #{params}")
+    #get real description from database
+    params[:idea][:description] = TempDescription.find_by_id(params[:idea][:description]).description
+
+
     @idea = Idea.new(params[:idea])
 
     respond_to do |format|
