@@ -51,8 +51,7 @@ class IdeasController < ApplicationController
   # POST /ideas
   # POST /ideas.json
   def create
-    idea_params = params.to_query
-    create_idea_string = "#{request.host}/approved_create?#{idea_params}"
+
 
     
     
@@ -60,8 +59,17 @@ class IdeasController < ApplicationController
     #validate idea
     @idea = Idea.new(params[:idea])
     if @idea.valid? && verify_recaptcha(:model => @idea, :message => "Please try the reCAPTCHA again")
+      #store description in temp database
+      @temp_description = TempDescription.new(:description=>@idea.description)
+
+      real_description = params[:idea][:description]
+      params[:idea][:description] = @temp_description.id
+      idea_params = params.to_query
+
+      create_idea_string = "#{request.host}/approved_create?#{idea_params}"
+
       #send approval email with correct params
-      body_string = "<p>Name: #{@idea.name}</p><p>Description: #{@idea.description}</p><p>Submitter: #{@idea.submitter_email}</p><p><a href=\"#{create_idea_string}\">approve</a></p>"
+      body_string = "<p>Name: #{@idea.name}</p><p>Description: #{real_description}</p><p>Submitter: #{@idea.submitter_email}</p><p><a href=\"#{create_idea_string}\">approve</a></p>"
       Pony.mail({
         :to => 'tmshu1@gmail.com',
         :via => :smtp,
