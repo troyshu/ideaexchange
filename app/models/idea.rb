@@ -16,7 +16,7 @@ class Idea < ActiveRecord::Base
   validates :description, presence: true
   validates_length_of :name, :maximum => 100
   #validates_length_of :description, :within => 200..1000
-  validates_length_of :description, :minimum => 200
+  #validates_length_of :description, :minimum => 200
   VALID_EMAIL_REGEX = /\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i
   validates :submitter_email, presence: true, format: { with: VALID_EMAIL_REGEX }
 end
