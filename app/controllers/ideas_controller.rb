@@ -1,8 +1,9 @@
 include ApplicationHelper
 
 class IdeasController < ApplicationController
-  before_filter :restrict_access, :only => [:show, :edit, :update, :destroy]
-
+  #before_filter :restrict_access, :only => [:index, :show, :edit, :update, :destroy]
+  before_filter :restrict_access, :only => [:show, :edit, :update] #admin mode
+  
   def restrict_access
     redirect_to root_path
   end
