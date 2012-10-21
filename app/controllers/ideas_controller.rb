@@ -1,7 +1,7 @@
 include ApplicationHelper
 
 class IdeasController < ApplicationController
-  before_filter :restrict_access, :only => [:index, :show, :edit, :update, :destroy]
+  before_filter :restrict_access, :only => [:show, :edit, :update, :destroy]
 
   def restrict_access
     redirect_to root_path
@@ -10,11 +10,13 @@ class IdeasController < ApplicationController
   # GET /ideas
   # GET /ideas.json
   def index
-    @ideas = Idea.all
+    if params[:admin]=="1"
+      @ideas = Idea.all
 
-    respond_to do |format|
-      format.html # index.html.erb
-      format.json { render json: @ideas }
+      respond_to do |format|
+        format.html # index.html.erb
+        format.json { render json: @ideas }
+      end
     end
   end
 
