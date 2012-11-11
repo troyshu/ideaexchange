@@ -184,7 +184,7 @@
 			"file": "log/development.log",
 			"settings":
 			{
-				"buffer_size": 620801,
+				"buffer_size": 627593,
 				"line_ending": "Unix"
 			}
 		},
@@ -265,6 +265,14 @@
 			"settings":
 			{
 				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/ideas/_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 938,
 				"line_ending": "Unix"
 			}
 		}
@@ -519,7 +527,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 12,
 			"sheets":
 			[
 				{
@@ -556,7 +564,7 @@
 					"file": "log/development.log",
 					"settings":
 					{
-						"buffer_size": 620801,
+						"buffer_size": 627593,
 						"regions":
 						{
 						},
@@ -734,7 +742,7 @@
 							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 702.0,
+						"translation.y": 522.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -840,6 +848,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/views/ideas/_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 938,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								546,
+								546
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
