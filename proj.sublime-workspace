@@ -216,7 +216,7 @@
 			"file": "app/controllers/ideas_controller.rb",
 			"settings":
 			{
-				"buffer_size": 5441,
+				"buffer_size": 5440,
 				"line_ending": "Unix"
 			}
 		},
@@ -527,7 +527,7 @@
 	"groups":
 	[
 		{
-			"selected": 12,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -672,15 +672,15 @@
 					"file": "app/controllers/ideas_controller.rb",
 					"settings":
 					{
-						"buffer_size": 5441,
+						"buffer_size": 5440,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								295,
-								295
+								91,
+								91
 							]
 						],
 						"settings":
@@ -864,8 +864,8 @@
 						"selection":
 						[
 							[
-								546,
-								546
+								192,
+								192
 							]
 						],
 						"settings":
