@@ -105,6 +105,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  actionmailer
   annotate
   bootstrap-sass
   coffee-rails (~> 3.2.1)
