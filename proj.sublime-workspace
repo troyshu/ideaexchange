@@ -181,99 +181,293 @@
 			}
 		},
 		{
-			"file": "log/development.log",
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/index.php",
 			"settings":
 			{
-				"buffer_size": 627593,
-				"line_ending": "Unix"
+				"buffer_size": 2632,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "config/routes.rb",
+			"contents": "Searching 197 files for \"两周中学生英语暑期班\" (regex)\n\n/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/index.php:\n  105  <tr>	\n  106  \n  107: 	<td id=\"text\">1. 两周中学生英语暑期班:</td>	<td id=\"text\" width=\"300\">RMB 37000</td>\n  108  \n  109  </tr>\n\n1 match in 1 file\n",
 			"settings":
 			{
-				"buffer_size": 1966,
-				"line_ending": "Unix"
+				"buffer_size": 299,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
 			}
 		},
 		{
-			"file": "app/views/layouts/application.html.erb",
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week.php",
 			"settings":
 			{
-				"buffer_size": 925,
-				"line_ending": "Unix"
+				"buffer_size": 1132,
+				"line_ending": "CR"
 			}
 		},
 		{
-			"file": "app/helpers/application_helper.rb",
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page1.html",
 			"settings":
 			{
-				"buffer_size": 44,
-				"line_ending": "Unix"
+				"buffer_size": 1446,
+				"line_ending": "CR"
 			}
 		},
 		{
-			"file": "app/controllers/ideas_controller.rb",
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page2.html",
 			"settings":
 			{
-				"buffer_size": 5440,
-				"line_ending": "Unix"
+				"buffer_size": 1209,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "Gemfile",
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page3.html",
 			"settings":
 			{
-				"buffer_size": 922,
-				"line_ending": "Unix"
+				"buffer_size": 1380,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/views/static_pages/home.html.erb",
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page4.html",
 			"settings":
 			{
-				"buffer_size": 3259,
-				"line_ending": "Unix"
+				"buffer_size": 1307,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/assets/stylesheets/custom.css.scss",
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page5.html",
 			"settings":
 			{
-				"buffer_size": 573,
-				"line_ending": "Unix"
+				"buffer_size": 1583,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "db/migrate/20121018000431_change_description_to_text.rb",
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page6.html",
 			"settings":
 			{
-				"buffer_size": 153,
-				"line_ending": "Unix"
+				"buffer_size": 1401,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/models/idea.rb",
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page7.html",
 			"settings":
 			{
-				"buffer_size": 701,
-				"line_ending": "Unix"
+				"buffer_size": 328,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/models/temp_description.rb",
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page8.html",
 			"settings":
 			{
-				"buffer_size": 78,
-				"line_ending": "Unix"
+				"buffer_size": 1481,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/views/ideas/_form.html.erb",
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page9.html",
 			"settings":
 			{
-				"buffer_size": 938,
-				"line_ending": "Unix"
+				"buffer_size": 4911,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week.php",
+			"settings":
+			{
+				"buffer_size": 1131,
+				"line_ending": "CR"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page1.html",
+			"settings":
+			{
+				"buffer_size": 1445,
+				"line_ending": "CR"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page2.html",
+			"settings":
+			{
+				"buffer_size": 1208,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page3.html",
+			"settings":
+			{
+				"buffer_size": 1381,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page4.html",
+			"settings":
+			{
+				"buffer_size": 1559,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page5.html",
+			"settings":
+			{
+				"buffer_size": 1584,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page6.html",
+			"settings":
+			{
+				"buffer_size": 1399,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page7.html",
+			"settings":
+			{
+				"buffer_size": 328,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page8.html",
+			"settings":
+			{
+				"buffer_size": 1481,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page9.html",
+			"settings":
+			{
+				"buffer_size": 5560,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week.php",
+			"settings":
+			{
+				"buffer_size": 1132,
+				"line_ending": "CR"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page1.html",
+			"settings":
+			{
+				"buffer_size": 1445,
+				"line_ending": "CR"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page2.html",
+			"settings":
+			{
+				"buffer_size": 1207,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page3.html",
+			"settings":
+			{
+				"buffer_size": 1384,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page4.html",
+			"settings":
+			{
+				"buffer_size": 1542,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page5.html",
+			"settings":
+			{
+				"buffer_size": 1577,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page6.html",
+			"settings":
+			{
+				"buffer_size": 1383,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page7.html",
+			"settings":
+			{
+				"buffer_size": 328,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page8.html",
+			"settings":
+			{
+				"buffer_size": 1481,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page9.html",
+			"settings":
+			{
+				"buffer_size": 3508,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/contact.php",
+			"settings":
+			{
+				"buffer_size": 3209,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/faq.php",
+			"settings":
+			{
+				"buffer_size": 1275,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/footer.php",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/header.php",
+			"settings":
+			{
+				"buffer_size": 1153,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -309,10 +503,31 @@
 	},
 	"file_history":
 	[
-		"/home/troyshu/cext_projects/tutorial/manifest.json",
-		"/home/troyshu/rails_projects/ideaexchange/app/views/ideas/_form.html.erb",
-		"/home/troyshu/rails_projects/ideaexchange/db/ideas.txt",
+		"/home/troyshu/rails_projects/ideaexchange/log/development.log",
+		"/home/troyshu/rails_projects/ideaexchange/config/routes.rb",
+		"/home/troyshu/rails_projects/ideaexchange/app/views/layouts/application.html.erb",
+		"/home/troyshu/rails_projects/ideaexchange/app/helpers/application_helper.rb",
+		"/home/troyshu/rails_projects/ideaexchange/app/controllers/ideas_controller.rb",
+		"/home/troyshu/rails_projects/ideaexchange/Gemfile",
+		"/home/troyshu/rails_projects/ideaexchange/app/views/static_pages/home.html.erb",
+		"/home/troyshu/rails_projects/ideaexchange/app/assets/stylesheets/custom.css.scss",
+		"/home/troyshu/rails_projects/ideaexchange/db/migrate/20121018000431_change_description_to_text.rb",
 		"/home/troyshu/rails_projects/ideaexchange/app/models/idea.rb",
+		"/home/troyshu/rails_projects/ideaexchange/app/models/temp_description.rb",
+		"/home/troyshu/rails_projects/ideaexchange/app/views/ideas/_form.html.erb",
+		"/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week.php",
+		"/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page1.html",
+		"/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page2.html",
+		"/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page3.html",
+		"/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page4.html",
+		"/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page5.html",
+		"/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page6.html",
+		"/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page7.html",
+		"/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page8.html",
+		"/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page9.html",
+		"/home/troyshu/rails_projects/ideaexchange/Gemfile.lock",
+		"/home/troyshu/cext_projects/tutorial/manifest.json",
+		"/home/troyshu/rails_projects/ideaexchange/db/ideas.txt",
 		"/home/troyshu/Dropbox/cis240_lc4/sum_numbers.asm",
 		"/home/troyshu/Dropbox/cis240_lc4/prime_script",
 		"/home/troyshu/Dropbox/cis240_lc4/prime.asm",
@@ -326,15 +541,11 @@
 		"/home/troyshu/rails_projects/ideaexchange/app/assets/stylesheets/scaffolds.css.scss",
 		"/home/troyshu/rails_projects/ideaexchange/app/assets/stylesheets/application.css",
 		"/home/troyshu/rails_projects/ideaexchange/app/controllers/static_pages_controller.rb",
-		"/home/troyshu/rails_projects/ideaexchange/app/assets/stylesheets/custom.css.scss",
-		"/home/troyshu/rails_projects/ideaexchange/app/controllers/ideas_controller.rb",
 		"/home/troyshu/rails_projects/ideaexchange/app/views/idea_mailer/approve_idea_email.html.erb",
 		"/home/troyshu/rails_projects/ideaexchange/app/mailers/idea_mailer.rb",
 		"/home/troyshu/rails_projects/ideaexchange/db/migrate/20121005134818_add_email_to_ideas.rb",
-		"/home/troyshu/rails_projects/ideaexchange/Gemfile",
 		"/home/troyshu/rails_projects/ideaexchange/public/index.html",
 		"/home/troyshu/rails_projects/ideaexchange/app/views/ideas/create.html.erb",
-		"/home/troyshu/rails_projects/ideaexchange/Gemfile.lock",
 		"/home/troyshu/rails_projects/ideaexchange/db/migrate/20121005014853_add_approved_to_ideas.rb",
 		"/home/troyshu/rails_projects/evening-earth-7467/Procfile",
 		"/home/troyshu/rails_projects/evening-earth-7467/config.ru",
@@ -419,24 +630,7 @@
 		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/db/migrate/20120820131114_add_remember_token_to_users.rb",
 		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/views/shared/_error_messages.html.erb",
 		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/locales/en.yml",
-		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/environments/test.rb",
-		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/db/migrate/20120817173138_add_password_digest_to_users.rb",
-		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/stylesheets/jquery.countdown.css",
-		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/db/migrate/20120817113900_create_users.rb",
-		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/db/development.sqlite3",
-		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/README.rdoc",
-		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/README.md",
-		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/jquery.countdown.js",
-		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/app/assets/javascripts/jquery.countdown.min.js",
-		"/home/troyshu/rails_projects/sample_app/Gemfile",
-		"/home/troyshu/rails_projects/sample_app/db/migrate/20120808002701_create_relationships.rb",
-		"/home/troyshu/rails_projects/sample_app/spec/models/user_spec.rb",
-		"/home/troyshu/rails_projects/sample_app/spec/models/relationship_spec.rb",
-		"/home/troyshu/rails_projects/sample_app/app/views/static_pages/home.html.erb",
-		"/home/troyshu/django_projects/tutorial/tutorial/settings.py",
-		"/home/troyshu/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
-		"/home/troyshu/rails_projects/sample_app/spec/models/micropost_spec.rb",
-		"/home/troyshu/rails_projects/sample_app/spec/requests/authentication_pages_spec.rb"
+		"/home/troyshu/rails_projects/pomodoro/pomodoro_app/config/environments/test.rb"
 	],
 	"find":
 	{
@@ -444,7 +638,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			""
@@ -455,6 +649,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"两周中学生英语暑期班",
+			"所有年龄在",
 			" ",
 			"flash",
 			" &reg;",
@@ -527,7 +723,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -561,10 +757,80 @@
 				},
 				{
 					"buffer": 1,
-					"file": "log/development.log",
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/index.php",
 					"settings":
 					{
-						"buffer_size": 627593,
+						"buffer_size": 2632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2015,
+								2015
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2383.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										201,
+										211
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week.php",
+					"settings":
+					{
+						"buffer_size": 1132,
 						"regions":
 						{
 						},
@@ -577,63 +843,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 248577.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "config/routes.rb",
-					"settings":
-					{
-						"buffer_size": 1966,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								211,
-								211
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/views/layouts/application.html.erb",
-					"settings":
-					{
-						"buffer_size": 925,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								683,
-								683
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -643,23 +854,24 @@
 				},
 				{
 					"buffer": 4,
-					"file": "app/helpers/application_helper.rb",
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page1.html",
 					"settings":
 					{
-						"buffer_size": 44,
+						"buffer_size": 1446,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								39,
-								39
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -669,25 +881,24 @@
 				},
 				{
 					"buffer": 5,
-					"file": "app/controllers/ideas_controller.rb",
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page2.html",
 					"settings":
 					{
-						"buffer_size": 5440,
+						"buffer_size": 1209,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								91,
-								91
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -697,23 +908,24 @@
 				},
 				{
 					"buffer": 6,
-					"file": "Gemfile",
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page3.html",
 					"settings":
 					{
-						"buffer_size": 922,
+						"buffer_size": 1380,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								312,
-								312
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -723,76 +935,78 @@
 				},
 				{
 					"buffer": 7,
-					"file": "app/views/static_pages/home.html.erb",
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page4.html",
 					"settings":
 					{
-						"buffer_size": 3259,
+						"buffer_size": 1307,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3088,
-								3088
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 522.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 8,
-					"file": "app/assets/stylesheets/custom.css.scss",
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page5.html",
 					"settings":
 					{
-						"buffer_size": 573,
+						"buffer_size": 1583,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								502,
-								502
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/SASS/Syntaxes/SASS.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 270.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 9,
-					"file": "db/migrate/20121018000431_change_description_to_text.rb",
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page6.html",
 					"settings":
 					{
-						"buffer_size": 153,
+						"buffer_size": 1401,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								102,
-								102
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -802,23 +1016,23 @@
 				},
 				{
 					"buffer": 10,
-					"file": "app/models/idea.rb",
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page7.html",
 					"settings":
 					{
-						"buffer_size": 701,
+						"buffer_size": 328,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								555,
-								555
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -828,23 +1042,24 @@
 				},
 				{
 					"buffer": 11,
-					"file": "app/models/temp_description.rb",
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page8.html",
 					"settings":
 					{
-						"buffer_size": 78,
+						"buffer_size": 1481,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								73,
-								73
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -854,28 +1069,673 @@
 				},
 				{
 					"buffer": 12,
-					"file": "app/views/ideas/_form.html.erb",
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/2week_page9.html",
 					"settings":
 					{
-						"buffer_size": 938,
+						"buffer_size": 4911,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								192,
-								192
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 54.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week.php",
+					"settings":
+					{
+						"buffer_size": 1131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page1.html",
+					"settings":
+					{
+						"buffer_size": 1445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page2.html",
+					"settings":
+					{
+						"buffer_size": 1208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page3.html",
+					"settings":
+					{
+						"buffer_size": 1381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page4.html",
+					"settings":
+					{
+						"buffer_size": 1559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page5.html",
+					"settings":
+					{
+						"buffer_size": 1584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page6.html",
+					"settings":
+					{
+						"buffer_size": 1399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page7.html",
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page8.html",
+					"settings":
+					{
+						"buffer_size": 1481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/3week_page9.html",
+					"settings":
+					{
+						"buffer_size": 5560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week.php",
+					"settings":
+					{
+						"buffer_size": 1132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page1.html",
+					"settings":
+					{
+						"buffer_size": 1445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page2.html",
+					"settings":
+					{
+						"buffer_size": 1207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page3.html",
+					"settings":
+					{
+						"buffer_size": 1384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page4.html",
+					"settings":
+					{
+						"buffer_size": 1542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page5.html",
+					"settings":
+					{
+						"buffer_size": 1577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page6.html",
+					"settings":
+					{
+						"buffer_size": 1383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page7.html",
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page8.html",
+					"settings":
+					{
+						"buffer_size": 1481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/4week_page9.html",
+					"settings":
+					{
+						"buffer_size": 3508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/contact.php",
+					"settings":
+					{
+						"buffer_size": 3209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/faq.php",
+					"settings":
+					{
+						"buffer_size": 1275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/footer.php",
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "/media/Windows7_OS/Users/Troy Shu/Documents/Business/Web Development/pattycproperty/site/programs/header.php",
+					"settings":
+					{
+						"buffer_size": 1153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
