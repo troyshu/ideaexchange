@@ -8,6 +8,7 @@ gem 'actionmailer'
 
 group :development do
 	gem 'sqlite3'
+	gem 'dotenv-rails'
 end
 
 group :production do
